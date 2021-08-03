@@ -8,12 +8,7 @@ Linfox leads the way as Asia Pacific’s largest privately-owned logistics compa
 
 The following are the services which he provides. 
 
-Software development
-Application development
-SAP development and configuration services.
-Web portal, 
-Android applications
-
+Software development, Application development, SAP development and configuration services, Web portal and Android applications.
 
 We are required to create our own Wordpress theme using a framework. This Git project repository includes all our group communication and information on this website project.  
 
