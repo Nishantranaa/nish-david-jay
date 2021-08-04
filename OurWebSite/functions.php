@@ -18,7 +18,7 @@ add_action('after_setup_theme','ourTheme_setup');
 /*  Include Styles and script
 /* ------------------------------------ */
 if ( ! function_exists( 'ourTheme_styles_scripts' ) ) {
-    function miotema_style_scripts() {
+    function ourTheme_style_scripts() {
         //wp_enqueue_script('jquery');
         wp_enqueue_script( 'ourTheme-scripts', get_template_directory_uri() . '/js/scripts.js', array( 'jquery' ),'', true );
         wp_enqueue_style( 'ourTheme-sourcesanspro','//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700');
