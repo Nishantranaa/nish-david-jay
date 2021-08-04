@@ -24,4 +24,4 @@
                 <li class="header__menu__item"><a href="">link</a></li>
             </ul>
         </header>
-        <h1 class="main-title">ourThem</h1>
+        <h1 class="main-title">ourTheme</h1>
