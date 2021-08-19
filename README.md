@@ -1,0 +1,2 @@
+README.md
+This repository contains code for the website developed by Nishant, Davide and Inderjot for CP3402 assessment. It includes the code for the theme and the final website from Wordpress and the videos of our stand-up meetings. 
