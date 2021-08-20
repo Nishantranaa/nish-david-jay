@@ -1,16 +1,21 @@
 /*
-Theme Name: 	Mio Tema
-Description: 	Responsive WordPress Theme based on Boostrap and Font Awesome.
-Version:     	1.0.0
-Author:     	Andrea Marchetti
-Author URI:   http://www.marchettidesign.net/chi-sono/
-Site:         http://www.marchettidesign.net
-Text Domain: 	miotema
-Domain Path: 	/languages
-Tags:        	grid-layout, blog, custom-menu, featured-images, right-sidebar
-License:    	GNU General Public License v3.0
-License URI:	http://www.gnu.org/licenses/gpl-3.0.html
-*/
+ * Theme Name:     outTheme Child
+ * Description:    ourTheme Child Theme
+ * Theme URI:   http://3.25.129.239:/home/bitnami/apps/wordpress/htdocs/wp-content/themes/ourTheme-Child
+ * Template:   ourTheme
+ * Version:        1.0.0
+ * Tested up to:   5.7
+ * Requires at least: 5.7.1
+ * Requires PHP:   7.0.0
+ * Author:         Nish-David-Jay
+ * Author URI:     http://www.supergroup2.something/
+ * Site:           http://www.supergroup2.something/
+ * Text Domain:    outTheme
+ * Domain Path:    /languages
+ * Tags:           grid-layout, blog, custom-menu, featured-images, right-sidebar
+ * License:        GNU General Public License v3.0
+ * License URI:    http://www.gnu.org/licenses/gpl-3.0.html
+ * */
 
 body, html{ font-family: "Source Sans Pro"; background: #eee;font-size: 16px; line-height: 24px}
 
