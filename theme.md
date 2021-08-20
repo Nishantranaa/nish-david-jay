@@ -1,3 +1,9 @@
+
+This theme file includes all our updates during the staging process and deployement of our WordPress Site. Under the nish-david-jay repository in master we have uploaded the core WordPress files which we created. The first is header.php file. This file includeds start html and php code and it has been updated to include images and a banner. This page is not really responsive but does include @media queries for a desktop and mobile screen. 
+A developer can easily understand this file as there are block commentents and uses ID tags for better CSS references. 
+
+The theme stytle can be edited really easily since we used well thought out ID and class names to easily identify them this makes it a simple process for further development. We used a github to manange our groups development flow in a iterative style. All updates are notified to Davide and if it work on his staging server then he deploys it to the production server. 
+
 The theme includes the following pages: -
     • Home
     • Log in -  to upload new posts
